@@ -1,7 +1,7 @@
 class helloworld
 {
-	int a=10;
-	int b=20;
+	int a=20;
+	int b=50;
 	int c= a+b;
 }
 
